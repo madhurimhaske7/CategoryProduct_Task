@@ -1,0 +1,11 @@
+com\project\test\model\Category.class
+com\project\test\exception\ApiException.class
+com\project\test\repository\CategoryRepository.class
+com\project\test\controller\ProductController.class
+com\project\test\model\Product.class
+com\project\test\model\User.class
+com\project\test\repository\UserRepository.class
+com\project\test\repository\ProductRepository.class
+com\project\test\MainApplication.class
+com\project\test\exception\ApiRequestException.class
+com\project\test\exception\ApiExceptionHandler.class
